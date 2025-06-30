@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/lavlashfee
+lavlashfee.so
+lavlashfee.dylib
+lavlashfee.dll
+lavlashfee.a
+lavlashfee.lib
+lavlashfee-test-*
+*.exe
+*.o
+*.obj
+*.lst
