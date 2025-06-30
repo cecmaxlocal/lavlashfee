@@ -2,6 +2,8 @@ Of course. Here is a comprehensive `README.md` file for a project named **lavlas
 
 This README assumes a "monorepo" structure, where the Dlang backend, Dart client, and React web app all live within the same top-level project directory. The fictional "Wines Gape Script" is interpreted as a custom Domain-Specific Language (DSL) for the project.
 
+<img src="./matrix/cec/bin/image/logon.png">
+
 ---
 
 # lavlashfee
